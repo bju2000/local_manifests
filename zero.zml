@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+    <remote name="nexus"
+            fetch="https://github.com"
+            revision="nx-9.0" />
+     
+    <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+	
+    <!--Device Trees-->
+    <project path="device/samsung/zero-common" name="DqrKn3Zz/android_device_samsung_zero-common" remote="nexus" />
+    <project path="device/samsung/zerofltexx" name="DqrKn3Zz/android_device_samsung_zerofltexx" remote="nexus" />
+    <project path="device/samsung/zeroltexx" name="DqrKn3Zz/android_device_samsung_zeroltexx" remote="nexus" />
+    <project path="device/samsung/zerofltecan" name="DqrKn3Zz/android_device_samsung_zerofltecan" remote="nexus" />
+    <project path="device/samsung/zeroltecan" name="DqrKn3Zz/android_device_samsung_zeroltecan" remote="nexus" />
+
+
+    <!--Kernel-->
+    <project path="kernel/samsung/exynos7420" name="Lunarixus/android_kernel_samsung_exynos7420AOSP" remote="nexus" />
+    <project path="prebuilts/linaro/linux-x86/aarch64/" name="enesuzun2002/android_prebuilts_linaro" groups="pdk,linux,x86_64" revision="6.1.1" remote="gitlab" />
+
+    <!-- Vendor folders -->
+    <project path="vendor/samsung/zero-common" name="DqrKn3Zz/proprietary_vendor_samsung_zero-common" remote="nexus" />
+	
+    <!-- Hardware -->
+    <project path="hardware/samsung" name="enesuzun2002/android_hardware_samsung" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos" name="enesuzun2002/android_hardware_samsung_slsi-cm_exynos" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos5" name="enesuzun2002/android_hardware_samsung_slsi-cm_exynos5" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/exynos7420" name="enesuzun2002/android_hardware_samsung_slsi-cm_exynos7420" remote="nexus" />
+    <project path="hardware/samsung_slsi-cm/openmax" name="enesuzun2002/android_hardware_samsung_slsi-cm_openmax" remote="nexus" />
+	
+</manifest>
