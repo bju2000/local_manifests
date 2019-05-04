@@ -13,7 +13,7 @@
     <project path="kernel/samsung/universal8895" name="ivanmeler/android_kernel_samsung_herolte" remote="nexus" />
     <project path="kernel/samsung/hero-common" name="ivanmeler/android_kernel_samsung_herolte" remote="nexus" />
 													     
-    <project path="vendor/samsung/hero-common" name="eivanmeler/proprietary_vendor_samsung_hero-common" remote="nexus" />
+    <project path="vendor/samsung/hero-common" name="ivanmeler/proprietary_vendor_samsung_hero-common" remote="nexus" />
     <project name="ivanmeler/proprietary_vendor_seal" path="vendor/seal/seal" remote="nexus" revision="master" />
 	
     <project path="hardware/samsung" name="ivanmeler/android_hardware_samsung" remote="nexus" />
