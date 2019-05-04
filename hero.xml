@@ -4,9 +4,9 @@
 
     <remote name="nexus"
             fetch="https://github.com"
-            revision="lineageos-16.0 />
+            revision="lineageos-16.0" />
 	
-    <project path="device/samsung/hero-common" name="sobp/android_device_samsung_hero-common" remote="nexus" revision="pie" />
+    <project path="device/samsung/hero-common" name="crdroidandroid-hero//android_device_samsung_hero-common" remote="nexus" revision="pie" />
     <project path="device/samsung/hero2lte" name="ivanmeler/android_device_samsung_hero2lte" remote="nexus" />
     <project path="device/samsung/herolte" name="ivanmeler/android_device_samsung_herolte" remote="nexus" />
 													 
