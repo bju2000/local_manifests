@@ -11,10 +11,8 @@ vendor folders / https://github.com/DqrKn3Zz/ https://github.com/Enesuzun2002 ht
 
 
 # S8 Sources(Trees)
-Kernel / https://github.com/ https://github.com/ivanmeler
+Kernel / https://github.com/travismills82
 
-Device / https://github.com/rdroidandroid-hero https://github.com/ivanmeler
+Device / https://github.com/travismills82
 
-Vendor folders / https://github.com/ivanmeler
-
-Hardware / https://github.com/ivanmeler https://github.com/pierg75
+Vendor folders / https://github.com/travismills82
