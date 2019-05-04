@@ -6,20 +6,11 @@
             fetch="https://github.com"
             revision="lineage-16.0" />
 	
-    <project path="device/samsung/hero-common" name="crdroidandroid-hero//android_device_samsung_hero-common" remote="nexus" revision="pie" />
-    <project path="device/samsung/hero2lte" name="ivanmeler/android_device_samsung_hero2lte" remote="nexus" />
-    <project path="device/samsung/herolte" name="ivanmeler/android_device_samsung_herolte" remote="nexus" />
+    <project path="device/samsung/universal8895-common" name="travismills82/android_device_samsung_universal8895-common" remote="nexus" />
+    <project path="device/samsung/dreamlte" name="travismills82/android_device_samsung_dreamlte" remote="nexus" />
 													 
-    <project path="kernel/samsung/universal8895" name="ivanmeler/android_kernel_samsung_herolte" remote="nexus" />
-    <project path="kernel/samsung/hero-common" name="ivanmeler/android_kernel_samsung_herolte" remote="nexus" />
+    <project path="kernel/samsung/universal8895" name="travismills82/android_kernel_samsung_universal8895" remote="nexus" />
 													     
-    <project path="vendor/samsung/hero-common" name="ivanmeler/proprietary_vendor_samsung_hero-common" remote="nexus" />
-    <project name="ivanmeler/proprietary_vendor_seal" path="vendor/seal/seal" remote="nexus" revision="master" />
-	
-    <project path="hardware/samsung" name="ivanmeler/android_hardware_samsung" remote="nexus" />
-    <project path="hardware/samsung_slsi-cm/exynos" name="ivanmeler/android_hardware_samsung_slsi-cm_exynos" remote="nexus" revision="ln-16.0" />
-    <project path="hardware/samsung_slsi-cm/exynos5" name="ivanmeler/android_hardware_samsung_slsi-cm_exynos5" remote="nexus" revision="ln-16.0" />
-    <project path="hardware/samsung_slsi-cm/exynos8895" name="pierg75/android_hardware_samsung_slsi-cm_exynos8895" remote="nexus" />
-    <project path="hardware/samsung_slsi-cm/openmax" name="ivanmeler/android_hardware_samsung_slsi-cm_openmax" remote="nexus" revision="ln-16.0" />
+    <project path="vendor/samsung/universal8895" name="travismills82/vendor_samsung_universal8895-common" remote="nexus" />
 	
 </manifest>
