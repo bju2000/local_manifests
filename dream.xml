@@ -7,5 +7,8 @@
 
     <project path="hardware/samsung_slsi-cm/exynos5" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos5" remote="github" revision="nx-9.0" />
     <project path="hardware/samsung_slsi-cm/exynos8895" name="pierg75/android_hardware_samsung_slsi-cm_exynos8895" remote="github" revision="lineage-16.0" />
-	
+
+    <project path="hardware/samsung" name="TeamNexus/android_hardware_samsung" remote="github" revision="nx-9.0" />
+    <project path="hardware/samsung_slsi-cm/exynos" name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" remote="github" revision="nx-9.0" />
+    <project path="hardware/samsung_slsi-cm/openmax" name="TeamNexus/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="nx-9.0" />
 </manifest>
